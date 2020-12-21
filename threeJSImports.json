@@ -1,0 +1,484 @@
+{
+    "Animation": [
+        {
+            "name": "AnimationAction",
+            "link": "https://threejs.org/docs/api/en/animation/AnimationAction.html"
+        },
+        {
+            "name": "AnimationClip",
+            "link": "https://threejs.org/docs/api/en/animation/AnimationClip.html"
+        },
+        {
+            "name": "AnimationMixer",
+            "link": "https://threejs.org/docs/api/en/animation/AnimationMixer.html"
+        },
+        {
+            "name": "AnimationObjectGroup",
+            "link": "https://threejs.org/docs/api/en/animation/AnimationObjectGroup.html"
+        },
+        {
+            "name": "AnimationUtils",
+            "link": "https://threejs.org/docs/api/en/animation/AnimationUtils.html"
+        },
+        {
+            "name": "KeyframeTrack",
+            "link": "https://threejs.org/docs/api/en/animation/KeyframeTrack.html"
+        },
+        {
+            "name": "PropertyBinding",
+            "link": "https://threejs.org/docs/api/en/animation/PropertyBinding.html"
+        },
+        {
+            "name": "PropertyMixer",
+            "link": "https://threejs.org/docs/api/en/animation/PropertyMixer.html"
+        }
+    ],
+    "Audio": [
+        {
+            "name": "Audio",
+            "link": "https://threejs.org/docs/api/en/audio/Audio.html"
+        },
+        {
+            "name": "AudioAnalyser",
+            "link": "https://threejs.org/docs/api/en/audio/AudioAnalyser.html"
+        },
+        {
+            "name": "AudioContext",
+            "link": "https://threejs.org/docs/api/en/audio/AudioContext.html"
+        },
+        {
+            "name": "AudioListener",
+            "link": "https://threejs.org/docs/api/en/audio/AudioListener.html"
+        },
+        {
+            "name": "PositionalAudio",
+            "link": "https://threejs.org/docs/api/en/audio/PositionalAudio.html"
+        }
+    ],
+    "Geometries": [
+        {
+            "name": "BoxBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/BoxBufferGeometry.html"
+        },
+        {
+            "name": "BoxGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/BoxGeometry.html"
+        },
+        {
+            "name": "CircleBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/CircleBufferGeometry.html"
+        },
+        {
+            "name": "CircleGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/CircleGeometry.html"
+        },
+        {
+            "name": "ConeBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/ConeBufferGeometry.html"
+        },
+        {
+            "name": "ConeGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/ConeGeometry.html"
+        },
+        {
+            "name": "CylinderBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/CylinderBufferGeometry.html"
+        },
+        {
+            "name": "CylinderGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/CylinderGeometry.html"
+        },
+        {
+            "name": "DodecahedronBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/DodecahedronBufferGeometry.html"
+        },
+        {
+            "name": "DodecahedronGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/DodecahedronGeometry.html"
+        },
+        {
+            "name": "EdgesGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/EdgesGeometry.html"
+        },
+        {
+            "name": "ExtrudeBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/ExtrudeBufferGeometry.html"
+        },
+        {
+            "name": "ExtrudeGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/ExtrudeGeometry.html"
+        },
+        {
+            "name": "IcosahedronBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/IcosahedronBufferGeometry.html"
+        },
+        {
+            "name": "IcosahedronGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/IcosahedronGeometry.html"
+        },
+        {
+            "name": "LatheBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/LatheBufferGeometry.html"
+        },
+        {
+            "name": "LatheGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/LatheGeometry.html"
+        },
+        {
+            "name": "OctahedronBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/OctahedronBufferGeometry.html"
+        },
+        {
+            "name": "OctahedronGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/OctahedronGeometry.html"
+        },
+        {
+            "name": "ParametricBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/ParametricBufferGeometry.html"
+        },
+        {
+            "name": "ParametricGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/ParametricGeometry.html"
+        },
+        {
+            "name": "PlaneBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/PlaneBufferGeometry.html"
+        },
+        {
+            "name": "PlaneGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/PlaneGeometry.html"
+        },
+        {
+            "name": "PolyhedronBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/PolyhedronBufferGeometry.html"
+        },
+        {
+            "name": "PolyhedronGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/PolyhedronGeometry.html"
+        },
+        {
+            "name": "RingBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/RingBufferGeometry.html"
+        },
+        {
+            "name": "RingGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/RingGeometry.html"
+        },
+        {
+            "name": "ShapeBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/ShapeBufferGeometry.html"
+        },
+        {
+            "name": "ShapeGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/ShapeGeometry.html"
+        },
+        {
+            "name": "SphereBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/SphereBufferGeometry.html"
+        },
+        {
+            "name": "SphereGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/SphereGeometry.html"
+        },
+        {
+            "name": "TetrahedronBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/TetrahedronBufferGeometry.html"
+        },
+        {
+            "name": "TetrahedronGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/TetrahedronGeometry.html"
+        },
+        {
+            "name": "TextBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/TextBufferGeometry.html"
+        },
+        {
+            "name": "TextGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/TextGeometry.html"
+        },
+        {
+            "name": "TorusBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/TorusBufferGeometry.html"
+        },
+        {
+            "name": "TorusGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/TorusGeometry.html"
+        },
+        {
+            "name": "TorusKnotBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/TorusKnotBufferGeometry.html"
+        },
+        {
+            "name": "TorusKnotGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/TorusKnotGeometry.html"
+        },
+        {
+            "name": "TubeBufferGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/TubeBufferGeometry.html"
+        },
+        {
+            "name": "TubeGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/TubeGeometry.html"
+        },
+        {
+            "name": "WireframeGeometry",
+            "link": "https://threejs.org/docs/api/en/geometries/WireframeGeometry.html"
+        }
+    ],
+    "Helpers": [
+        {
+            "name": "ArrowHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/ArrowHelper.html"
+        },
+        {
+            "name": "AxesHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/AxesHelper.html"
+        },
+        {
+            "name": "BoxHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/BoxHelper.html"
+        },
+        {
+            "name": "Box3Helper",
+            "link": "https://threejs.org/docs/api/en/helpers/Box3Helper.html"
+        },
+        {
+            "name": "CameraHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/CameraHelper.html"
+        },
+        {
+            "name": "DirectionalLightHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/DirectionalLightHelper.html"
+        },
+        {
+            "name": "GridHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/GridHelper.html"
+        },
+        {
+            "name": "PolarGridHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/PolarGridHelper.html"
+        },
+        {
+            "name": "HemisphereLightHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/HemisphereLightHelper.html"
+        },
+        {
+            "name": "PlaneHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/PlaneHelper.html"
+        },
+        {
+            "name": "PointLightHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/PointLightHelper.html"
+        },
+        {
+            "name": "SkeletonHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/SkeletonHelper.html"
+        },
+        {
+            "name": "SpotLightHelper",
+            "link": "https://threejs.org/docs/api/en/helpers/SpotLightHelper.html"
+        }
+    ],
+    "Lights": [
+        {
+            "name": "AmbientLight",
+            "link": "https://threejs.org/docs/api/en/lights/AmbientLight.html"
+        },
+        {
+            "name": "AmbientLightProbe",
+            "link": "https://threejs.org/docs/api/en/lights/AmbientLightProbe.html"
+        },
+        {
+            "name": "DirectionalLight",
+            "link": "https://threejs.org/docs/api/en/lights/DirectionalLight.html"
+        },
+        {
+            "name": "HemisphereLight",
+            "link": "https://threejs.org/docs/api/en/lights/HemisphereLight.html"
+        },
+        {
+            "name": "HemisphereLightProbe",
+            "link": "https://threejs.org/docs/api/en/lights/HemisphereLightProbe.html"
+        },
+        {
+            "name": "Light",
+            "link": "https://threejs.org/docs/api/en/lights/Light.html"
+        },
+        {
+            "name": "LightProbe",
+            "link": "https://threejs.org/docs/api/en/lights/LightProbe.html"
+        },
+        {
+            "name": "PointLight",
+            "link": "https://threejs.org/docs/api/en/lights/PointLight.html"
+        },
+        {
+            "name": "RectAreaLight",
+            "link": "https://threejs.org/docs/api/en/lights/RectAreaLight.html"
+        },
+        {
+            "name": "SpotLight",
+            "link": "https://threejs.org/docs/api/en/lights/SpotLight.html"
+        }
+    ],
+    "Materials": [
+        {
+            "name": "LineBasicMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/LineBasicMaterial.html"
+        },
+        {
+            "name": "LineDashedMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/LineDashedMaterial.html"
+        },
+        {
+            "name": "Material",
+            "link": "https://threejs.org/docs/api/en/materials/Material.html"
+        },
+        {
+            "name": "MeshBasicMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/MeshBasicMaterial.html"
+        },
+        {
+            "name": "MeshDepthMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/MeshDepthMaterial.html"
+        },
+        {
+            "name": "MeshDistanceMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/MeshDistanceMaterial.html"
+        },
+        {
+            "name": "MeshLambertMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/MeshLambertMaterial.html"
+        },
+        {
+            "name": "MeshMatcapMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/MeshMatcapMaterial.html"
+        },
+        {
+            "name": "MeshNormalMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/MeshNormalMaterial.html"
+        },
+        {
+            "name": "MeshPhongMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/MeshPhongMaterial.html"
+        },
+        {
+            "name": "MeshPhysicalMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/MeshPhysicalMaterial.html"
+        },
+        {
+            "name": "MeshStandardMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/MeshStandardMaterial.html"
+        },
+        {
+            "name": "MeshToonMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/MeshToonMaterial.html"
+        },
+        {
+            "name": "PointsMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/PointsMaterial.html"
+        },
+        {
+            "name": "RawShaderMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/RawShaderMaterial.html"
+        },
+        {
+            "name": "ShaderMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/ShaderMaterial.html"
+        },
+        {
+            "name": "ShadowMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/ShadowMaterial.html"
+        },
+        {
+            "name": "SpriteMaterial",
+            "link": "https://threejs.org/docs/api/en/materials/SpriteMaterial.html"
+        }
+    ],
+    "Math": [
+        {
+            "name": "Box2",
+            "link": "https://threejs.org/docs/api/en/math/Box2.html"
+        },
+        {
+            "name": "Box3",
+            "link": "https://threejs.org/docs/api/en/math/Box3.html"
+        },
+        {
+            "name": "Color",
+            "link": "https://threejs.org/docs/api/en/math/Color.html"
+        },
+        {
+            "name": "Cylindrical",
+            "link": "https://threejs.org/docs/api/en/math/Cylindrical.html"
+        },
+        {
+            "name": "Euler",
+            "link": "https://threejs.org/docs/api/en/math/Euler.html"
+        },
+        {
+            "name": "Frustum",
+            "link": "https://threejs.org/docs/api/en/math/Frustum.html"
+        },
+        {
+            "name": "Interpolant",
+            "link": "https://threejs.org/docs/api/en/math/Interpolant.html"
+        },
+        {
+            "name": "Line3",
+            "link": "https://threejs.org/docs/api/en/math/Line3.html"
+        },
+        {
+            "name": "MathUtils",
+            "link": "https://threejs.org/docs/api/en/math/MathUtils.html"
+        },
+        {
+            "name": "Matrix3",
+            "link": "https://threejs.org/docs/api/en/math/Matrix3.html"
+        },
+        {
+            "name": "Matrix4",
+            "link": "https://threejs.org/docs/api/en/math/Matrix4.html"
+        },
+        {
+            "name": "Plane",
+            "link": "https://threejs.org/docs/api/en/math/Plane.html"
+        },
+        {
+            "name": "Quaternion",
+            "link": "https://threejs.org/docs/api/en/math/Quaternion.html"
+        },
+        {
+            "name": "Ray",
+            "link": "https://threejs.org/docs/api/en/math/Ray.html"
+        },
+        {
+            "name": "Sphere",
+            "link": "https://threejs.org/docs/api/en/math/Sphere.html"
+        },
+        {
+            "name": "Spherical",
+            "link": "https://threejs.org/docs/api/en/math/Spherical.html"
+        },
+        {
+            "name": "SphericalHarmonics3",
+            "link": "https://threejs.org/docs/api/en/math/SphericalHarmonics3.html"
+        },
+        {
+            "name": "Triangle",
+            "link": "https://threejs.org/docs/api/en/math/Triangle.html"
+        },
+        {
+            "name": "Vector2",
+            "link": "https://threejs.org/docs/api/en/math/Vector2.html"
+        },
+        {
+            "name": "Vector3",
+            "link": "https://threejs.org/docs/api/en/math/Vector3.html"
+        },
+        {
+            "name": "Vector4",
+            "link": "https://threejs.org/docs/api/en/math/Vector4.html"
+        }
+    ]
+}
